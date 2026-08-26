@@ -290,7 +290,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_fi
     print(f"VELOCITY {lang_name.upper()} - MULTI-PLATFORM UPLOAD")
     print("="*80)
     if not Path(video_path).exists(): print(f"Video not found"); return results
-    platforms = [("facebook", "fb", "Facebook"), ("instagram", "ig", "Instagram"), ("youtube", "yt", "YouTube"), ("vk", "vk", "VK"), ("telegram", "tg", "Telegram"), ("twitter", "tw", "Twitter"), ("threads", "th", "Threads"), ("tiktok", "tk", "TikTok")]
+    platforms = [("twitter", "tw", "Twitter")]
     for pname, key, dname in platforms:
         results["platforms_attempted"].append(pname)
         func = uploaders.get(key)
