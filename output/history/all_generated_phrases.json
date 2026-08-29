@@ -12669,7 +12669,42 @@
       "transliteration": "Tzmicha, pniyot maftiyot.",
       "category": "Wisdom",
       "generated_at": "2026-08-28T21:52:26.671300"
+    },
+    {
+      "english": "Sky, bright and vast.",
+      "hebrew": "שמיים, בהירים ורחבים.",
+      "transliteration": "shamayim, behirim v'rechavim.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T10:06:38.787292"
+    },
+    {
+      "english": "A light sprinkle, refreshing.",
+      "hebrew": "ממטר קל, מרענן.",
+      "transliteration": "mamtár kal, meranen.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T10:06:38.787300"
+    },
+    {
+      "english": "Air, warm and still.",
+      "hebrew": "אוויר, חם ועומד.",
+      "transliteration": "avir, cham v'omed.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T10:06:38.787301"
+    },
+    {
+      "english": "Clouds, like cotton puffs.",
+      "hebrew": "עננים, כמו כדורי צמר.",
+      "transliteration": "ananím, kmo k'durey tzámer.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T10:06:38.787303"
+    },
+    {
+      "english": "A sudden chill, shiver.",
+      "hebrew": "קור פתאומי, צמרמורת.",
+      "transliteration": "kor pit'omí, tzim'r'móret.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T10:06:38.787304"
     }
   ],
-  "last_updated": "2026-08-28T21:52:26.671301"
+  "last_updated": "2026-08-29T10:06:38.787305"
 }
