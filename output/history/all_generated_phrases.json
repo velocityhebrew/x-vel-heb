@@ -12914,7 +12914,42 @@
       "transliteration": "Kol tza'ad, nechshav.",
       "category": "Sports",
       "generated_at": "2026-09-03T10:13:06.660408"
+    },
+    {
+      "english": "Just a moment, I'll be right back.",
+      "hebrew": "רק רגע, אני מיד חוזר.",
+      "transliteration": "Rak rega, ani miyad chozer.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-03T20:08:17.334277"
+    },
+    {
+      "english": "This is amazing, truly.",
+      "hebrew": "זה מדהים, באמת.",
+      "transliteration": "Ze madhim, be'emet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-03T20:08:17.334289"
+    },
+    {
+      "english": "Can you say that again?",
+      "hebrew": "אתה יכול לחזור על זה?",
+      "transliteration": "Ata yachol lachzor al ze?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-03T20:08:17.334290"
+    },
+    {
+      "english": "Where is the nearest station?",
+      "hebrew": "איפה התחנה הקרובה ביותר?",
+      "transliteration": "Eifo ha'tachana hakrova beyoter?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-03T20:08:17.334291"
+    },
+    {
+      "english": "It smells so good here.",
+      "hebrew": "יש פה ריח כל כך טוב.",
+      "transliteration": "Yesh po reyach kol kach tov.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-03T20:08:17.334292"
     }
   ],
-  "last_updated": "2026-09-03T10:13:06.660410"
+  "last_updated": "2026-09-03T20:08:17.334294"
 }
