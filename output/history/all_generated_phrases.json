@@ -13334,7 +13334,42 @@
       "transliteration": "Kol milah, tza'ad kadimah.",
       "category": "Success",
       "generated_at": "2026-09-09T20:08:50.592625"
+    },
+    {
+      "english": "This task, requires deep thought.",
+      "hebrew": "המשימה הזו, דורשת מחשבה עמוקה.",
+      "transliteration": "Ha-mesima ha-zo, doreshet machshava amuka.",
+      "category": "Work",
+      "generated_at": "2026-09-10T10:11:34.110708"
+    },
+    {
+      "english": "Building something, new and lasting.",
+      "hebrew": "בונה משהו, חדש ובר-קיימא.",
+      "transliteration": "Boneh mashehu, chadash u-var-kayama.",
+      "category": "Work",
+      "generated_at": "2026-09-10T10:11:34.110721"
+    },
+    {
+      "english": "My focus, is on the details.",
+      "hebrew": "המיקוד שלי, הוא על הפרטים.",
+      "transliteration": "Ha-mikud sheli, hu al ha-pratim.",
+      "category": "Work",
+      "generated_at": "2026-09-10T10:11:34.110722"
+    },
+    {
+      "english": "Let's refine this, together.",
+      "hebrew": "בואו נלטש את זה, יחד.",
+      "transliteration": "Bo'u nelatash et ze, yachad.",
+      "category": "Work",
+      "generated_at": "2026-09-10T10:11:34.110723"
+    },
+    {
+      "english": "Finding the best, approach.",
+      "hebrew": "מוצא את הגישה, הכי טובה.",
+      "transliteration": "Motze et ha-gisha, hachi tova.",
+      "category": "Work",
+      "generated_at": "2026-09-10T10:11:34.110724"
     }
   ],
-  "last_updated": "2026-09-09T20:08:50.592627"
+  "last_updated": "2026-09-10T10:11:34.110726"
 }
