@@ -13684,7 +13684,42 @@
       "transliteration": "Ha'derech niglet, bizman ha'haliha.",
       "category": "Patience",
       "generated_at": "2026-09-15T20:09:19.285844"
+    },
+    {
+      "english": "Listen, the guitar sings.",
+      "hebrew": "שמע, הגיטרה שרה.",
+      "transliteration": "Shma, ha'gitara shara.",
+      "category": "Music",
+      "generated_at": "2026-09-16T10:11:47.683897"
+    },
+    {
+      "english": "A soft piano, touches me.",
+      "hebrew": "פסנתר רך, נוגע בי.",
+      "transliteration": "Pianter rach, noga'a bi.",
+      "category": "Music",
+      "generated_at": "2026-09-16T10:11:47.683907"
+    },
+    {
+      "english": "Drum beat, strong and steady.",
+      "hebrew": "מכת תוף, חזקה ויציבה.",
+      "transliteration": "Makat tof, chazaka ve'yetziva.",
+      "category": "Music",
+      "generated_at": "2026-09-16T10:11:47.683908"
+    },
+    {
+      "english": "Violin cries, a sweet sound.",
+      "hebrew": "כינור בוכה, צליל מתוק.",
+      "transliteration": "Kinor bokeh, tzlil matok.",
+      "category": "Music",
+      "generated_at": "2026-09-16T10:11:47.683909"
+    },
+    {
+      "english": "Hear the trumpet, a bright call.",
+      "hebrew": "שמע את החצוצרה, קריאה בהירה.",
+      "transliteration": "Shma et ha'chatzotzra, kri'a behira.",
+      "category": "Music",
+      "generated_at": "2026-09-16T10:11:47.683910"
     }
   ],
-  "last_updated": "2026-09-15T20:09:19.285846"
+  "last_updated": "2026-09-16T10:11:47.683911"
 }
