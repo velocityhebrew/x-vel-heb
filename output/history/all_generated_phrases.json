@@ -13789,7 +13789,42 @@
       "transliteration": "Rasiss shel zman, yakar, cholef.",
       "category": "Time",
       "generated_at": "2026-09-17T10:11:13.729756"
+    },
+    {
+      "english": "This city, it buzzes.",
+      "hebrew": "העיר הזו, היא רוחשת.",
+      "transliteration": "Ha'ir hazu, hi rocheshet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T20:09:05.851586"
+    },
+    {
+      "english": "The music, it calls.",
+      "hebrew": "המוזיקה, היא קוראת.",
+      "transliteration": "Hamoizka, hi koret.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T20:09:05.851596"
+    },
+    {
+      "english": "That color, it pops.",
+      "hebrew": "הצבע הזה, בולט.",
+      "transliteration": "Hatz'va hazeh, bolet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T20:09:05.851597"
+    },
+    {
+      "english": "Let's find, a quiet spot.",
+      "hebrew": "בוא נמצא, פינה שקטה.",
+      "transliteration": "Bo nimtza, peenah shketah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T20:09:05.851599"
+    },
+    {
+      "english": "The story, it's intriguing.",
+      "hebrew": "הסיפור, מסקרן.",
+      "transliteration": "Hasipur, mesakren.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-17T20:09:05.851600"
     }
   ],
-  "last_updated": "2026-09-17T10:11:13.729758"
+  "last_updated": "2026-09-17T20:09:05.851602"
 }
