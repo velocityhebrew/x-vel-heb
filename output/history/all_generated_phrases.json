@@ -13929,7 +13929,42 @@
       "transliteration": "Ha-dvash hazeh, ta'amo kmo bar.",
       "category": "Food",
       "generated_at": "2026-09-19T10:10:32.648997"
+    },
+    {
+      "english": "Soft light, welcome dawn.",
+      "hebrew": "אור רך, בוקר נעים.",
+      "transliteration": "Or rach, boker na'im.",
+      "category": "Health",
+      "generated_at": "2026-09-19T20:08:02.098615"
+    },
+    {
+      "english": "Quiet mind, clear thoughts.",
+      "hebrew": "שקט נפשי, מחשבה צלולה.",
+      "transliteration": "Sheket nafshi, machshava tlula.",
+      "category": "Health",
+      "generated_at": "2026-09-19T20:08:02.098624"
+    },
+    {
+      "english": "Grounding roots, feel steady.",
+      "hebrew": "שורשים עמוקים, יציבות.",
+      "transliteration": "Shoreshim amukim, yetzivut.",
+      "category": "Health",
+      "generated_at": "2026-09-19T20:08:02.098626"
+    },
+    {
+      "english": "Gentle breeze, a soft touch.",
+      "hebrew": "משב רוח, נשימה עדינה.",
+      "transliteration": "Meshov ruach, neshima dina.",
+      "category": "Health",
+      "generated_at": "2026-09-19T20:08:02.098626"
+    },
+    {
+      "english": "Warm sun, on your skin.",
+      "hebrew": "שמש חמימה, על עורך.",
+      "transliteration": "Shemesh chamima, al orecha.",
+      "category": "Health",
+      "generated_at": "2026-09-19T20:08:02.098627"
     }
   ],
-  "last_updated": "2026-09-19T10:10:32.648999"
+  "last_updated": "2026-09-19T20:08:02.098628"
 }
