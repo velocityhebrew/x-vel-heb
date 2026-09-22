@@ -14104,7 +14104,42 @@
       "transliteration": "At/a, ha-sod ha-lochesh sheli.",
       "category": "Love",
       "generated_at": "2026-09-21T20:09:12.521511"
+    },
+    {
+      "english": "Quickly, something's wrong.",
+      "hebrew": "מהר, משהו לא בסדר.",
+      "transliteration": "Mah-her, mah-shu lo bah-seh-der.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T10:12:12.051444"
+    },
+    {
+      "english": "I need a quiet place.",
+      "hebrew": "אני זקוק למקום שקט.",
+      "transliteration": "Ah-nee zah-kook lah-mah-kom shah-ket.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T10:12:12.051455"
+    },
+    {
+      "english": "My stomach, it pains me.",
+      "hebrew": "הבטן שלי, היא כואבת.",
+      "transliteration": "Hah-beh-ten sheh-lee, hee koh-eh-vet.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T10:12:12.051457"
+    },
+    {
+      "english": "Is anyone there? Help!",
+      "hebrew": "יש שם מישהו? עזרה!",
+      "transliteration": "Yeesh sham mee-she-hoo? Ez-rah!",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T10:12:12.051458"
+    },
+    {
+      "english": "I feel faint, hold me.",
+      "hebrew": "אני מרגיש חלוש, תחזיק אותי.",
+      "transliteration": "Ah-nee mar-geesh chah-loosh, tahch-zeek oh-tee.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T10:12:12.051460"
     }
   ],
-  "last_updated": "2026-09-21T20:09:12.521512"
+  "last_updated": "2026-09-22T10:12:12.051462"
 }
