@@ -14139,7 +14139,42 @@
       "transliteration": "Ah-nee mar-geesh chah-loosh, tahch-zeek oh-tee.",
       "category": "Emergency",
       "generated_at": "2026-09-22T10:12:12.051460"
+    },
+    {
+      "english": "Light glows, hope flickers.",
+      "hebrew": "אור נדלק, תקווה מהבהבת.",
+      "transliteration": "Or nidlak, tikvah meh'habet.",
+      "category": "Holidays",
+      "generated_at": "2026-09-23T10:11:05.440613"
+    },
+    {
+      "english": "Feast awaits, gather near.",
+      "hebrew": "סעודה נכונה, התאספו קרוב.",
+      "transliteration": "Se'uda nekhona, hit'asfu karov.",
+      "category": "Holidays",
+      "generated_at": "2026-09-23T10:11:05.440621"
+    },
+    {
+      "english": "Ancient melodies, fill the air.",
+      "hebrew": "מנגינות עתיקות, ממלאות את האוויר.",
+      "transliteration": "Manginot atikot, memal'ot et ha'avir.",
+      "category": "Holidays",
+      "generated_at": "2026-09-23T10:11:05.440622"
+    },
+    {
+      "english": "Sweetness lingers, on the tongue.",
+      "hebrew": "מתיקות נשארת, על הלשון.",
+      "transliteration": "Metukut nish'eret, al halashon.",
+      "category": "Holidays",
+      "generated_at": "2026-09-23T10:11:05.440623"
+    },
+    {
+      "english": "Blessings flow, like water.",
+      "hebrew": "ברכות זורמות, כמו מים.",
+      "transliteration": "Brokhot zor'mot, k'mo mayim.",
+      "category": "Holidays",
+      "generated_at": "2026-09-23T10:11:05.440624"
     }
   ],
-  "last_updated": "2026-09-22T10:12:12.051462"
+  "last_updated": "2026-09-23T10:11:05.440625"
 }
