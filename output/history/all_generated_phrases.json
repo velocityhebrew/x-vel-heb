@@ -14244,7 +14244,42 @@
       "transliteration": "Ha-muzika ha-zo, kol kakh ketsivit.",
       "category": "Travel",
       "generated_at": "2026-09-24T10:12:13.693728"
+    },
+    {
+      "english": "What's, the catch, of the day?",
+      "hebrew": "מה, הדג, של היום?",
+      "transliteration": "Mah, hadag, shel hayom?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:09:18.832585"
+    },
+    {
+      "english": "This bread, is so warm.",
+      "hebrew": "הלחם, הזה, כל כך חם.",
+      "transliteration": "Halechem, hazeh, kol kach cham.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:09:18.832597"
+    },
+    {
+      "english": "Could, I see, the menu again?",
+      "hebrew": "אפשר, לראות, את התפריט שוב?",
+      "transliteration": "Efshar, lir'ot, et hatifrit shuv?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:09:18.832599"
+    },
+    {
+      "english": "Is this, very spicy?",
+      "hebrew": "זה, מאוד חריף?",
+      "transliteration": "Zeh, me'od charif?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:09:18.832600"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "hebrew": "אנחנו מוכנים, להזמין עכשיו.",
+      "transliteration": "Anachnu muchanim, lehazmin achshav.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-24T20:09:18.832602"
     }
   ],
-  "last_updated": "2026-09-24T10:12:13.693729"
+  "last_updated": "2026-09-24T20:09:18.832604"
 }
