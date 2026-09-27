@@ -14419,7 +14419,42 @@
       "transliteration": "Chagorrah chazakah, le'hachzik otam.",
       "category": "Clothes",
       "generated_at": "2026-09-26T20:07:53.842129"
+    },
+    {
+      "english": "One dream, a new dawn.",
+      "hebrew": "חלום אחד, שחר חדש.",
+      "transliteration": "Chalom echad, shachar chadash.",
+      "category": "Numbers",
+      "generated_at": "2026-09-27T15:00:11.204830"
+    },
+    {
+      "english": "Two hearts, beat as one.",
+      "hebrew": "שני לבבות, פועמים יחד.",
+      "transliteration": "Shnei lehavot, po'amim yachad.",
+      "category": "Numbers",
+      "generated_at": "2026-09-27T15:00:11.204841"
+    },
+    {
+      "english": "Three colors, paint the sky.",
+      "hebrew": "שלושה צבעים, צובעים את השמיים.",
+      "transliteration": "Shlosha tzva'im, tzov'im et hashamayim.",
+      "category": "Numbers",
+      "generated_at": "2026-09-27T15:00:11.204843"
+    },
+    {
+      "english": "Four winds, carry secrets.",
+      "hebrew": "ארבע רוחות, נושאות סודות.",
+      "transliteration": "Arba ruchot, nose'ot sodot.",
+      "category": "Numbers",
+      "generated_at": "2026-09-27T15:00:11.204844"
+    },
+    {
+      "english": "Five senses, taste the world.",
+      "hebrew": "חמש חושים, טועמים את העולם.",
+      "transliteration": "Chamesh chushim, to'amim et ha'olam.",
+      "category": "Numbers",
+      "generated_at": "2026-09-27T15:00:11.204844"
     }
   ],
-  "last_updated": "2026-09-26T20:07:53.842131"
+  "last_updated": "2026-09-27T15:00:11.204846"
 }
