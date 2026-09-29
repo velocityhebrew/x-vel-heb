@@ -14594,7 +14594,42 @@
       "transliteration": "Tachziku ma'amad, kim'at siyamnu.",
       "category": "Common Expressions",
       "generated_at": "2026-09-29T16:21:24.748973"
+    },
+    {
+      "english": "A quick nod, yes.",
+      "hebrew": "הנהון מהיר, כן.",
+      "transliteration": "Hina'on mahir, ken.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-29T23:24:27.179408"
+    },
+    {
+      "english": "Her lips, a soft smile.",
+      "hebrew": "שפתיה, חיוך עדין.",
+      "transliteration": "Sifoteha, hiyukh adin.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-29T23:24:27.179420"
+    },
+    {
+      "english": "His nose, always twitching.",
+      "hebrew": "אפו, תמיד מתנועע.",
+      "transliteration": "Apo, tamid mitnoa'a.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-29T23:24:27.179422"
+    },
+    {
+      "english": "Fingers, drumming a beat.",
+      "hebrew": "אצבעות, מתופפות קצב.",
+      "transliteration": "Etzba'ot, metopefot ketzev.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-29T23:24:27.179423"
+    },
+    {
+      "english": "Her ears, catching the wind.",
+      "hebrew": "אוזניה, קולטות את הרוח.",
+      "transliteration": "Oznayim, koltot et ha'ruach.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-29T23:24:27.179424"
     }
   ],
-  "last_updated": "2026-09-29T16:21:24.748975"
+  "last_updated": "2026-09-29T23:24:27.179426"
 }
