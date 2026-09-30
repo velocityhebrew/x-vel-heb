@@ -14629,7 +14629,42 @@
       "transliteration": "Oznayim, koltot et ha'ruach.",
       "category": "Body Parts",
       "generated_at": "2026-09-29T23:24:27.179424"
+    },
+    {
+      "english": "New dawn, breaks for us.",
+      "hebrew": "שחר חדש, זורח עבורנו.",
+      "transliteration": "shachar chadash, zore'ach avureinu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T16:16:35.548480"
+    },
+    {
+      "english": "The bridge, is built now.",
+      "hebrew": "הגשר, נבנה עכשיו.",
+      "transliteration": "ha'gesher, nivna achshav.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T16:16:35.548494"
+    },
+    {
+      "english": "Soft rain, washes clean.",
+      "hebrew": "גשם רך, שוטף נקי.",
+      "transliteration": "geshem rach, shotef naki.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T16:16:35.548495"
+    },
+    {
+      "english": "We turn, toward the light.",
+      "hebrew": "אנחנו פונים, אל האור.",
+      "transliteration": "anachnu ponim, el ha'or.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T16:16:35.548496"
+    },
+    {
+      "english": "This space, feels open.",
+      "hebrew": "החלל הזה, מרגיש פתוח.",
+      "transliteration": "ha'chalal hazeh, margish patuach.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T16:16:35.548497"
     }
   ],
-  "last_updated": "2026-09-29T23:24:27.179426"
+  "last_updated": "2026-09-30T16:16:35.548499"
 }
