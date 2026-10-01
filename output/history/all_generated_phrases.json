@@ -14699,7 +14699,42 @@
       "transliteration": "Ha'ivrit shelakhem, mitkhazeket.",
       "category": "Perseverance",
       "generated_at": "2026-09-30T23:24:46.458002"
+    },
+    {
+      "english": "This place, feels special.",
+      "hebrew": "המקום הזה, מרגיש מיוחד.",
+      "transliteration": "Ha'makom hazeh, margish meyuchad.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-01T17:57:52.814391"
+    },
+    {
+      "english": "Your smile, it's warm.",
+      "hebrew": "החיוך שלך, הוא חם.",
+      "transliteration": "Ha'chiyuch shelcha, hu cham.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-01T17:57:52.814400"
+    },
+    {
+      "english": "The light, is soft now.",
+      "hebrew": "האור, רך עכשיו.",
+      "transliteration": "Ha'or, rach achshav.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-01T17:57:52.814402"
+    },
+    {
+      "english": "This food, has flavor.",
+      "hebrew": "האוכל הזה, יש לו טעם.",
+      "transliteration": "Ha'ochel hazeh, yesh lo ta'am.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-01T17:57:52.814403"
+    },
+    {
+      "english": "Let's walk, by the sea.",
+      "hebrew": "בוא נלך, ליד הים.",
+      "transliteration": "Bo nele'ch, leyad ha'yam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-01T17:57:52.814404"
     }
   ],
-  "last_updated": "2026-09-30T23:24:46.458004"
+  "last_updated": "2026-10-01T17:57:52.814405"
 }
