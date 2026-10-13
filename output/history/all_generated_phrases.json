@@ -15259,7 +15259,42 @@
       "transliteration": "Rasess adin, mekarer et ha-or.",
       "category": "Weather",
       "generated_at": "2026-10-13T17:22:45.499362"
+    },
+    {
+      "english": "New day, new start.",
+      "hebrew": "יום חדש, התחלה חדשה.",
+      "transliteration": "Yom chadash, hat'chala chadasha.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-13T23:35:22.688495"
+    },
+    {
+      "english": "Let's make it happen.",
+      "hebrew": "בואו נגרום לזה לקרות.",
+      "transliteration": "Bo'u nag'rem le'zeh li'krot.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-13T23:35:22.688508"
+    },
+    {
+      "english": "Feeling the good vibes.",
+      "hebrew": "מרגיש את האנרגיה הטובה.",
+      "transliteration": "Margish et ha'energiya ha'tova.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-13T23:35:22.688509"
+    },
+    {
+      "english": "One step at a time.",
+      "hebrew": "צעד אחד, כל פעם.",
+      "transliteration": "Tza'ad echad, kol pa'am.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-13T23:35:22.688511"
+    },
+    {
+      "english": "It’s all coming together.",
+      "hebrew": "הכל מסתדר, בסוף.",
+      "transliteration": "Hakol mistader, ba'sof.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-13T23:35:22.688512"
     }
   ],
-  "last_updated": "2026-10-13T17:22:45.499364"
+  "last_updated": "2026-10-13T23:35:22.688514"
 }
