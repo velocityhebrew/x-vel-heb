@@ -15539,7 +15539,42 @@
       "transliteration": "Koach ruch'cha, beer amukah.",
       "category": "Courage",
       "generated_at": "2026-10-22T14:53:09.100676"
+    },
+    {
+      "english": "Listen closely, say it slow.",
+      "hebrew": "הקשיבו היטב, אמרו לאט.",
+      "transliteration": "Hakshivu heytev, imru le'at.",
+      "category": "Directions",
+      "generated_at": "2026-10-25T14:07:35.065963"
+    },
+    {
+      "english": "Repeat this, feel the pulse.",
+      "hebrew": "חזרו על זה, הרגישו את הפעימה.",
+      "transliteration": "Chazru al ze, regishu et ha'pe'ima.",
+      "category": "Directions",
+      "generated_at": "2026-10-25T14:07:35.065974"
+    },
+    {
+      "english": "Find the echo, speak it out.",
+      "hebrew": "מצאו את ההד, דברו זאת.",
+      "transliteration": "Metsu et ha'hed, dabru zot.",
+      "category": "Directions",
+      "generated_at": "2026-10-25T14:07:35.065975"
+    },
+    {
+      "english": "Let the sound, linger here.",
+      "hebrew": "תנו לצליל, להתעכב כאן.",
+      "transliteration": "Tnu la'tzlil, le'hit'abek kan.",
+      "category": "Directions",
+      "generated_at": "2026-10-25T14:07:35.065976"
+    },
+    {
+      "english": "Connect the syllables, make it flow.",
+      "hebrew": "חברו את ההברות, עשו זאת לזרום.",
+      "transliteration": "Chabru et ha'havarot, asu zot lizrom.",
+      "category": "Directions",
+      "generated_at": "2026-10-25T14:07:35.065977"
     }
   ],
-  "last_updated": "2026-10-22T14:53:09.100678"
+  "last_updated": "2026-10-25T14:07:35.065979"
 }
