@@ -15609,7 +15609,42 @@
       "transliteration": "Khamt'zam'tsut maf'ti'a, oseh et zeh margish.",
       "category": "Food",
       "generated_at": "2026-10-25T22:15:53.046273"
+    },
+    {
+      "english": "Golden light, paints the hills, softly.",
+      "hebrew": "אור זהב, צובע גבעות, ברכות.",
+      "transliteration": "Or zahav, tzoveh gav'ot, berakhut.",
+      "category": "Nature",
+      "generated_at": "2026-10-26T16:31:36.276251"
+    },
+    {
+      "english": "River flows, over smooth stones, singing.",
+      "hebrew": "נהר זורם, על חלוקים, שר.",
+      "transliteration": "Nahar zorem, al chalukim, shar.",
+      "category": "Nature",
+      "generated_at": "2026-10-26T16:31:36.276266"
+    },
+    {
+      "english": "Starry sky, a dark blanket, glittering.",
+      "hebrew": "שמי לילה, שמיכה כהה, מנצנצת.",
+      "transliteration": "Shmei layla, smicha keha, menatznetzet.",
+      "category": "Nature",
+      "generated_at": "2026-10-26T16:31:36.276267"
+    },
+    {
+      "english": "Bare branches, reach for sky, waiting.",
+      "hebrew": "ענפים חשופים, מושטים לשמים, מחכים.",
+      "transliteration": "Anaphim chashufim, mushtim la'shamayim, mechakim.",
+      "category": "Nature",
+      "generated_at": "2026-10-26T16:31:36.276269"
+    },
+    {
+      "english": "Forest floor, damp and dark, smells earthy.",
+      "hebrew": "רצפת יער, לחה וכהה, מריחה אדמה.",
+      "transliteration": "Ritzpat ya'ar, lacha v'keha, mericha adama.",
+      "category": "Nature",
+      "generated_at": "2026-10-26T16:31:36.276270"
     }
   ],
-  "last_updated": "2026-10-25T22:15:53.046275"
+  "last_updated": "2026-10-26T16:31:36.276271"
 }
