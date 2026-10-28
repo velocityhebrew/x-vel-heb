@@ -15644,7 +15644,42 @@
       "transliteration": "Ritzpat ya'ar, lacha v'keha, mericha adama.",
       "category": "Nature",
       "generated_at": "2026-10-26T16:31:36.276270"
+    },
+    {
+      "english": "One quiet moment, to breathe.",
+      "hebrew": "רגע שקט אחד, לנשום.",
+      "transliteration": "rega shaket echad, linshom.",
+      "category": "Numbers",
+      "generated_at": "2026-10-28T16:31:51.025170"
+    },
+    {
+      "english": "Two small steps, forward now.",
+      "hebrew": "שני צעדים קטנים, קדימה.",
+      "transliteration": "shnei tze'adim ktanim, kadima.",
+      "category": "Numbers",
+      "generated_at": "2026-10-28T16:31:51.025180"
+    },
+    {
+      "english": "Three bright stars, in the night.",
+      "hebrew": "שלושה כוכבים, בלילה.",
+      "transliteration": "shlosha kochavim, balayla.",
+      "category": "Numbers",
+      "generated_at": "2026-10-28T16:31:51.025181"
+    },
+    {
+      "english": "Four strong walls, keep us safe.",
+      "hebrew": "ארבעה קירות, חזקים.",
+      "transliteration": "arba'a kirot, chazakim.",
+      "category": "Numbers",
+      "generated_at": "2026-10-28T16:31:51.025182"
+    },
+    {
+      "english": "Five smooth stones, in my hand.",
+      "hebrew": "חמישה אבנים, חלקות.",
+      "transliteration": "chamisha avanim, chalakot.",
+      "category": "Numbers",
+      "generated_at": "2026-10-28T16:31:51.025184"
     }
   ],
-  "last_updated": "2026-10-26T16:31:36.276271"
+  "last_updated": "2026-10-28T16:31:51.025185"
 }
