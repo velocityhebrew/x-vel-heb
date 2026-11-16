@@ -402,12 +402,12 @@ def configure_edge_tts():
     edge_tts.constants.WSS_URL = active_url
     edge_tts.constants.BASE_URL = active_url
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
+async def generate_single_audio(text: str, voice: str, output_path: str, rate: str = "+0%"):
     for attempt in range(1, 4):
         try:
             import edge_tts
             configure_edge_tts()
-            communicate = edge_tts.Communicate(text, voice)
+            communicate = edge_tts.Communicate(text, voice, rate=rate)
             await communicate.save(output_path)
             if Path(output_path).exists() and Path(output_path).stat().st_size > 100:
                 return True
@@ -418,10 +418,10 @@ async def generate_single_audio(text: str, voice: str, output_path: str):
                 await asyncio.sleep(2 * attempt)
     return False
 
-async def generate_audio_with_retries(text: str, voice: str, output_path: str, max_retries: int = 3):
+async def generate_audio_with_retries(text: str, voice: str, output_path: str, max_retries: int = 3, rate: str = "+0%"):
     import asyncio
     for attempt in range(1, max_retries + 1):
-        success = await generate_single_audio(text, voice, output_path)
+        success = await generate_single_audio(text, voice, output_path, rate)
         if success:
             if Path(output_path).exists() and Path(output_path).stat().st_size > 100:
                 return True
@@ -454,7 +454,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         print(f"    EN: {phrase['english']}")
         print(f"    HE: {phrase['hebrew']}")
 
-        nat_success = asyncio.run(generate_audio_with_retries(phrase["hebrew"], NATIVE_VOICE, str(native_file)))
+        nat_success = asyncio.run(generate_audio_with_retries(phrase["hebrew"], NATIVE_VOICE, str(native_file), rate="-20%"))
         if nat_success:
             print(f"    - Hebrew: {native_file.name}")
         else:
