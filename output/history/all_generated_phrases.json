@@ -15889,7 +15889,42 @@
       "transliteration": "Ha-órév mesovév rosh, u-meqshiv be-zehirút.",
       "category": "Animals",
       "generated_at": "2026-11-17T18:58:22.019637"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "hebrew": "שלום, נעים להכיר.",
+      "transliteration": "shalom, na'im lehakir",
+      "category": "Directions",
+      "generated_at": "2026-11-18T09:10:42.060313"
+    },
+    {
+      "english": "Thank you very much.",
+      "hebrew": "תודה רבה.",
+      "transliteration": "toda raba",
+      "category": "Directions",
+      "generated_at": "2026-11-18T09:10:42.060337"
+    },
+    {
+      "english": "Good morning, have a great day.",
+      "hebrew": "בוקר טוב, יום נהדר.",
+      "transliteration": "boker tov, yom nehedar",
+      "category": "Directions",
+      "generated_at": "2026-11-18T09:10:42.060339"
+    },
+    {
+      "english": "I love learning new languages.",
+      "hebrew": "אני אוהב ללמוד שפות חדשות.",
+      "transliteration": "ani ohev lilmod safot hadashot",
+      "category": "Directions",
+      "generated_at": "2026-11-18T09:10:42.060341"
+    },
+    {
+      "english": "Never give up on your dreams.",
+      "hebrew": "לעולם אל תוותר על החלומות שלך.",
+      "transliteration": "le'olam al tevater al hachalomot shelcha",
+      "category": "Directions",
+      "generated_at": "2026-11-18T09:10:42.060342"
     }
   ],
-  "last_updated": "2026-11-17T18:58:22.019639"
+  "last_updated": "2026-11-18T09:10:42.060344"
 }
