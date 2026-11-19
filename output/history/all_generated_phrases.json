@@ -15994,7 +15994,42 @@
       "transliteration": "ani rotze kafe bevakasha",
       "category": "Relationships",
       "generated_at": "2026-11-19T01:39:21.769474"
+    },
+    {
+      "english": "The food is delicious today.",
+      "hebrew": "האוכל טעים היום.",
+      "transliteration": "ha'ochel ta'im hayom",
+      "category": "Growth",
+      "generated_at": "2026-11-19T18:53:10.368490"
+    },
+    {
+      "english": "Have a wonderful weekend.",
+      "hebrew": "סוף שבוע נפלא.",
+      "transliteration": "sof shavua nifla",
+      "category": "Growth",
+      "generated_at": "2026-11-19T18:53:10.368507"
+    },
+    {
+      "english": "Take care of yourself.",
+      "hebrew": "תשמור על עצמך.",
+      "transliteration": "tishmor al atzmecha",
+      "category": "Growth",
+      "generated_at": "2026-11-19T18:53:10.368508"
+    },
+    {
+      "english": "See you tomorrow my friend.",
+      "hebrew": "נתראה מחר, חבר שלי.",
+      "transliteration": "nitra'e machar, chaver sheli",
+      "category": "Growth",
+      "generated_at": "2026-11-19T18:53:10.368509"
+    },
+    {
+      "english": "The weather is beautiful outside.",
+      "hebrew": "מזג האוויר יפה בחוץ.",
+      "transliteration": "mezeg ha'avir yafe bachutz",
+      "category": "Growth",
+      "generated_at": "2026-11-19T18:53:10.368510"
     }
   ],
-  "last_updated": "2026-11-19T01:39:21.769476"
+  "last_updated": "2026-11-19T18:53:10.368512"
 }
