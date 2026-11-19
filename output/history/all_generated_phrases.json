@@ -15959,7 +15959,42 @@
       "transliteration": "osher hu bechira, bchor bo",
       "category": "Courage",
       "generated_at": "2026-11-18T18:40:14.264939"
+    },
+    {
+      "english": "What time is it please.",
+      "hebrew": "מה השעה בבקשה.",
+      "transliteration": "ma hasha'a bevakasha",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T01:39:21.769461"
+    },
+    {
+      "english": "Where is the train station.",
+      "hebrew": "איפה תחנת הרכבת.",
+      "transliteration": "eifo tachanat harakevet",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T01:39:21.769469"
+    },
+    {
+      "english": "How much does this cost.",
+      "hebrew": "כמה זה עולה.",
+      "transliteration": "kama ze ole",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T01:39:21.769471"
+    },
+    {
+      "english": "Can you help me please.",
+      "hebrew": "אתה יכול לעזור לי בבקשה.",
+      "transliteration": "ata yachol la'azor li bevakasha",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T01:39:21.769473"
+    },
+    {
+      "english": "I would like a coffee please.",
+      "hebrew": "אני רוצה קפה בבקשה.",
+      "transliteration": "ani rotze kafe bevakasha",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T01:39:21.769474"
     }
   ],
-  "last_updated": "2026-11-18T18:40:14.264941"
+  "last_updated": "2026-11-19T01:39:21.769476"
 }
