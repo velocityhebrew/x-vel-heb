@@ -16029,7 +16029,42 @@
       "transliteration": "mezeg ha'avir yafe bachutz",
       "category": "Growth",
       "generated_at": "2026-11-19T18:53:10.368510"
+    },
+    {
+      "english": "I am very happy today.",
+      "hebrew": "אני מאוד שמח היום.",
+      "transliteration": "ani me'od sameach hayom",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T01:51:02.091459"
+    },
+    {
+      "english": "Learning a language opens new doors.",
+      "hebrew": "לימוד שפה פותח דלתות חדשות.",
+      "transliteration": "limud safa poteach dlatot hadashot",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T01:51:02.091470"
+    },
+    {
+      "english": "Keep practicing every single day.",
+      "hebrew": "תמשיך להתאמן כל יום.",
+      "transliteration": "tamshich lehit'amen kol yom",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T01:51:02.091471"
+    },
+    {
+      "english": "You can achieve anything you want.",
+      "hebrew": "אתה יכול להשיג כל מה שתרצה.",
+      "transliteration": "ata yachol lehasig kol ma shetirtze",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T01:51:02.091472"
+    },
+    {
+      "english": "Rest when you are tired.",
+      "hebrew": "תנוח כשאתה עייף.",
+      "transliteration": "tanuach kshe'ata ayef",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T01:51:02.091474"
     }
   ],
-  "last_updated": "2026-11-19T18:53:10.368512"
+  "last_updated": "2026-11-20T01:51:02.091476"
 }
