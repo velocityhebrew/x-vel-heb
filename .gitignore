@@ -7,3 +7,4 @@ output/upload_results_*.json
 __pycache__/
 *.pyc
 .env
+scene_storybook/preview.html
