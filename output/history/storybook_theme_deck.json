@@ -1,6 +1,5 @@
 {
   "deck": [
-    "cherry",
     "grape",
     "forest",
     "ocean",
@@ -14,7 +13,8 @@
     "teal"
   ],
   "recent": [
-    "citrus"
+    "citrus",
+    "cherry"
   ],
-  "updated": "2026-11-27T11:57:14.091092"
+  "updated": "2026-11-27T19:25:16.761433"
 }
